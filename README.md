@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MazzuMrz
-- 👀 I’m interested in Ux/Ui Design and Front End development.
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on new websites
+- 👋 Hi, I’m Matias!
+- 👀 I’m interested in Front End development.
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on new proyects
 - 📫 How to reach me maruzzamatias@gmail.com
 
 <!---
