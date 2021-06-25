@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matias!
 - 👀 I’m interested in Front End development.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning .Net framework
 - 💞️ I’m looking to collaborate on new proyects
 - 📫 How to reach me maruzzamatias@gmail.com
 
